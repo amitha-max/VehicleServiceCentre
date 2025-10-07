@@ -98,8 +98,5 @@ Exit
 
 ---
 
-## 🧵 Threads Example (Simplified)
-```java
-ServiceProcessor processor = new ServiceProcessor(selectedService);
-Thread t = new Thread(processor);
-t.start(); // runs service process in background
+
+
